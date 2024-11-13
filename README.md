@@ -9,6 +9,10 @@
 
 ###
 
+<p align="center">Conhecimentos:</p>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
   <img width="20" />
@@ -20,6 +24,10 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
 </div>
+
+###
+
+<p align="center">Redes Sociais:</p>
 
 ###
 
@@ -40,5 +48,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="32" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<p align="center">...</p>
 
 ###
