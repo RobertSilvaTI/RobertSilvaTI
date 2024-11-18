@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Robert e estou estudando JavaScript e React.</h2>
+<h2 align="left">Olá! Meu nome é Robert e estou estudando JavaScript, Next e React.</h2>
 
 ###
 
